@@ -1,6 +1,6 @@
 #### LeetCode Solutions in JavaScript
 * Tried to use optimal solutions as much as I can. Most solutions are from the LeetCode community.
-* Written in [Airbnb JavaScript](https://github.com/airbnb/javascript) style.
+
 * A work in progress.
 * If you find something wrong or the complexity is not good, you are very welcome to contribute your better solutions.
 
